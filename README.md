@@ -3,7 +3,7 @@
 <h2>About me</h2>
 <ol>
   <li>Im new to coding</li>
-  <li> I am 19></li>
+  <li> I am 19</li>
   <li>I had a dog</li>
 </ol>
 
