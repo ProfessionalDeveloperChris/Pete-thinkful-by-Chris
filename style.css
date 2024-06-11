@@ -1,0 +1,88 @@
+html{
+  background-color: #EEEDC1;
+}
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Source+Sans+Pro:wght@400&display=swap");
+
+nav {
+  word-spacing: 10px;
+}
+
+body {
+  color: #003049;
+  font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 40px;
+}
+
+h1 {
+  font-family: "Playfair Display", Times, serif;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Playfair Display", Times, serif;
+  text-align:center;
+}
+
+h3 {
+  font-family: "Playfair Display", Times, serif;
+  text-align:center;
+}
+
+article {
+  padding: 50px 0;
+}
+
+article div {
+  text-align: left;
+  width: 100%;
+}
+
+p {
+  line-height: 1.5;
+}
+
+/* The div container constrains the content width within the main container to 600px */
+div {
+  margin: auto;
+  width: 600px;
+}
+
+img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+hr {
+  border: 1px solid black;
+}
+
+/* Add your solution below */
+
+.image-circle {
+  border-radius:50%;
+  border: 1px solid blue;
+}
+
+a {
+  color:red;
+}
+
+header {
+  text-align:center;
+}
+
+.image-circle {
+  display: block;
+  margin: 0 auto;
+}
+
+main {
+  text-align: center
+}
+
+footer p {
+  text-align: center;
+}
